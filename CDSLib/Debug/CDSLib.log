@@ -1,0 +1,9 @@
+﻿  SeqList.c
+Z:\DSLib\CDSLib\list.h(25): warning C4091: “typedef ”: 没有声明变量时忽略“_List”的左侧
+Z:\DSLib\CDSLib\SeqList.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“_SeqList”的左侧
+  main.c
+Z:\DSLib\CDSLib\list.h(25): warning C4091: “typedef ”: 没有声明变量时忽略“_List”的左侧
+Z:\DSLib\CDSLib\Seqlist.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“_SeqList”的左侧
+Z:\DSLib\CDSLib\StaticList.h(16): warning C4091: “typedef ”: 没有声明变量时忽略“_StaticList”的左侧
+  正在生成代码...
+  CDSLib.vcxproj -> Z:\DSLib\CDSLib\Debug\CDSLib.exe
